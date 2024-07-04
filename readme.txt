@@ -13,7 +13,7 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 
 The necessary Python packages are listed in `requirements.txt`. These packages must be installed in the system for successfull running of the source code file (FINAL.ipynb).
 
-## Additional files required (included in the repository)
+## Additional files required 
 
 - YOLO weights file (yolov3.weights)
 - YOLO configuration file (yolov3.cfg)
